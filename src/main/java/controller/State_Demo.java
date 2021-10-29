@@ -17,7 +17,7 @@ public class State_Demo {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                System.out.println("\\\\\\\\\\\\\\");
+                System.out.println("、、、、、、、、");
             }
 
         });
