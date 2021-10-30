@@ -2,7 +2,7 @@ package controller;
 
 /**
  * TODO
- *  礼让线程测试
+ *  礼让线程测试(不一定成功)
  * @author chen
  * @version 1.0
  * @date 2021/10/28 19:58
